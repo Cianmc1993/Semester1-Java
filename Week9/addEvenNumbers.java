@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class forLoop
+public class addEvenNumbers
 {
    public static void main(String [] args)
    {
